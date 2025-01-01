@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a basic HTML project from the Odin Project.
+This is a super basic HTML assignment from the Odin Project.
